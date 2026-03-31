@@ -1,5 +1,6 @@
 /*
 Create Bronze Tables
+This SQL script creates multiple tables for the Bronze layer, including customer information, product information, sales details, and ERP-related tables.
 */
 
 --CREATE TABLES FOR BRONZE LAYER
